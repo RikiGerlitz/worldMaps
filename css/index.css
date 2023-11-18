@@ -1,0 +1,49 @@
+body{
+   background-image: url("../images/pexels-ylanite-koppens-697662.jpg");
+   background-position: center center;
+  background-size: cover;
+  font-family: 'Gloria Hallelujah', cursive;
+}
+.home{
+   font-size: larger;
+}
+.box {
+    background: rgba(0, 0, 0, 0.452);
+    cursor: pointer;
+    min-height: 350px;
+    color: white;
+    
+}
+
+.imgS {
+    height: 250px;
+}
+
+.fSize{
+    font-size: larger;
+}
+.navbar{
+    background: rgba(0, 0, 0, 0.452);
+   
+}
+
+header{
+    position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 999;
+    min-height: 15vh;
+}
+
+footer{
+    min-height: 60px;
+    background: rgba(0, 0, 0, 0.452);
+    color: white;
+    font-size: larger;
+  min-height: 5vh;
+}
+
+main{
+    min-height: 85vh;
+}
+
